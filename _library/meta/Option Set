@@ -1,1 +1,75 @@
+---
+layout: single
+title: "Option Set"
+permalink: /option-set/
+toc: true
+toc_label: "Terms"
+---
+
+## **Option Set (Meta)**
+
+**Tag:** Meta, Choice, Constraint, Perception, Agency, Possibility
+
+**Definition:**
+
+Perceived actions available to actor in current situation—often smaller than the objectively real set of options due to constraints, model limitations, or learned helplessness.
+
+**Full Explanation:**
+
+The option set is what the actor believes they can do, not what they objectively could do. This distinction is critical because actors optimize within their perceived option set, even when better options exist outside it.
+
+Option sets are constrained by three factors:
+
+1. **Real constraints:** Actual limits on capability, resources, permission
+2. **Model blindness:** Options that exist but actor's model doesn't include them
+3. **Learned constraints:** Options actor believes are impossible based on past experience, even when current situation differs
+
+Most "poor decisions" aren't failures of optimization—they're optimization within artificially narrow option sets. The actor is choosing the best available option *that they can see*, but they're missing options that exist outside their perceived set.
+
+Option sets also shift with context and tier dominance. Under threat (T3 high), option set narrows dramatically—fight/flight/freeze are the only options that feel available. Under safety and long time horizons (T5/T6 accessible), option set expands—creative solutions, delayed gratification, cooperation all become visible.
+
+**Why option sets stay artificially narrow:**
+
+- **Model limitations:** Can't perceive options your model doesn't include
+- **Learned helplessness:** Past failures teach "trying X never works"
+- **Cognitive load:** Stress/exhaustion narrow option set to cached responses
+- **Social constraints:** Options that violate norms feel impossible even when physically possible
+- **Identity protection:** Options that threaten self-image get filtered out unconsciously
+
+Expanding option sets is often more powerful than optimizing within existing ones. Show someone they have an option they didn't see → behavior changes immediately, without touching their values or motivation.
+
+**Example 1 (Obvious):**
+
+Abuse victim who "doesn't just leave." Outsider sees obvious option: walk out the door. But victim's perceived option set: (1) Stay and manage his moods = possible but exhausting, (2) Leave = triggers violence, lose housing, lose kids, no money, family will blame me = feels impossible. The "obvious" option exists in reality but not in their perceived set because real constraints (financial, social, safety) and learned constraints (past attempts to leave made things worse) have removed it. They're optimizing rationally within their perceived set—that set just doesn't include the option outsiders think is obvious.
+
+**Example 2 (Subtle):**
+
+Early-career academic sees option set as: (1) Publish flashy results in high-impact journals = career success, (2) Do careful replication/null results = career death. The option "Build reputation for reliability, collaborate with people who value rigor, create career outside the broken prestige system" exists objectively but isn't in their perceived set because their model says "only high-impact pubs = viable career." They optimize for option 1 (publish flashy results), create reproducibility crisis, because their narrow option set doesn't include alternatives. The constraint isn't real—it's model-imposed—but it determines behavior just as strongly.
+
+**Common Misdiagnosis:**
+
+"They're making bad choices" when reality is "their perceived option set doesn't include better choices that objectively exist." Moralizing about their decisions ignores that they're optimizing correctly within the options they can see. The intervention isn't "make better choices"—it's "expand the option set."
+
+**Related constructs:**
+
+→ [[Choice]], [[Constraint]], [[Model]], [[Agency]], [[Learned helplessness]], [[Cognitive load]], [[Local rationality]], [[Capability]]
+
+**Diagnostic questions:**
+
+- What options does actor perceive as available?
+- What options exist objectively that they're not seeing?
+- Why are those options invisible? (model blindness, learned constraints, real barriers?)
+- What would make hidden options visible/feasible?
+
+**Intervention principle:**
+
+Before pushing for different choices, audit the option set:
+
+1. **Map perceived options:** What do they think they can do?
+2. **Map real options:** What objectively exists?
+3. **Identify gap:** What's invisible and why?
+4. **Expand set:** Remove artificial constraints, provide new information, reduce threat so more options feel safe
+
+Often the most powerful intervention isn't persuasion—it's just showing someone an option they didn't know existed. "Wait, I can do *that*?" → immediate behavior change.
+
 
