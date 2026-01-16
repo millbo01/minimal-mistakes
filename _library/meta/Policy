@@ -1,1 +1,14 @@
+---
+layout: single
+title: "Six Needs Framework (6NF)"
+permalink: /framework/6nf/
+toc: true
+---
+
+**Payoff (Meta):** Expected net outcome to the subject, not objective truth. What the actor predicts they'll gain/lose, filtered through their model. Two actors facing same objective situation can perceive completely different payoffs.
+
+**Expected Value (Meta):** Payoff adjusted for probability, time delay, and enforcement reliability. Theoretical payoff × (likelihood it happens) × (discount for delay) × (confidence consequences will land). This is what actors actually optimize—not nominal payoffs but expected value given uncertainty.
+
+**Utility (Meta):** Internal reward signal architecture determining what feels good/bad. Not always conscious—you can be optimizing for utility you're not aware of. Shaped by evolution, development, and learning. Different people have different utility functions, explaining why identical situations produce different satisfaction.
+
 
