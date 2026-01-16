@@ -10,3 +10,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+# In _data/navigation.yml
+
+library:
+  - title: "Meta Concepts"
+    children:
+      - title: "Incentive"
+        url: /library/meta/incentive/
+      - title: "Dominant Tier"
+        url: /library/meta/dominant-tier/
+      # ... etc for all Meta terms
+      
+  - title: "Behavior & Choice"
+    url: /library/autonomy-and-behavior/
+    
+  - title: "Kin & Tribe (T1/T2)"
+    url: /library/kin-and-tribe/
+    
+  - title: "Safety & Means (T3/T4)"
+    url: /library/safety-and-means/
+    
+  - title: "Meaning & Stewardship (T5/T6)"
+    url: /library/meaning-and-stewardship/
+    
+  - title: "Conflict & Systems"
+    url: /library/conflict-and-systems/
