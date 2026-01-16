@@ -19,7 +19,40 @@ library:
         url: /library/meta/incentive/
       - title: "Dominant Tier"
         url: /library/meta/dominant-tier/
-      # ... etc for all Meta terms
+      - title: "Context"
+        url: /library/meta/context/
+      - title: "Clarity"
+        url: /library/meta/clarity/
+      - title: "Opacity"
+        url: /library/meta/opacity/
+      - title: "Signal"
+        url: /library/meta/signal/
+      - title: "Noise"
+        url: /library/meta/noise/
+      - title: "Feedback"
+        url: /library/meta/feedback/
+      - title: "Feedback Integrity"
+        url: /library/meta/feedback-integrity/
+      - title: "Constraint"
+        url: /library/meta/constraint/
+      - title: "Model"
+        url: /library/meta/model/
+      - title: "Policy"
+        url: /library/meta/policy/
+      - title: "Narrative"
+        url: /library/meta/narrative/
+      - title: "Local Rationality"
+        url: /library/meta/local-rationality/
+      - title: "Cultural Model"
+        url: /library/meta/cultural-model/
+      - title: "Option Set"
+        url: /library/meta/option-set/
+      - title: "Choice"
+        url: /library/meta/choice/
+      - title: "Human Distance"
+        url: /library/meta/human-distance/
+      - title: "Abstraction"
+        url: /library/meta/abstraction/
       
   - title: "Behavior & Choice"
     url: /library/autonomy-and-behavior/
@@ -33,5 +66,26 @@ library:
   - title: "Meaning & Stewardship (T5/T6)"
     url: /library/meaning-and-stewardship/
     
-  - title: "Conflict & Systems"
-    url: /library/conflict-and-systems/
+  - title: "Morality & Values"
+    url: /library/morality-and-values/
+    
+  - title: "Power & Manipulation"
+    url: /library/power-and-manipulation/
+    
+  - title: "Accountability & Enforcement"
+    url: /library/accountability-and-enforcement/
+    
+  - title: "Trust & Cooperation"
+    url: /library/trust-and-cooperation/
+    
+  - title: "Conflict & Polarization"
+    url: /library/conflict-and-polarization/
+    
+  - title: "Communication & Distance"
+    url: /library/communication-and-distance/
+    
+  - title: "Organizations & Institutions"
+    url: /library/organizations-and-institutions/
+    
+  - title: "Harm & Externalities"
+    url: /library/harm-and-externalities/
