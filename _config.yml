@@ -93,13 +93,13 @@ navigation:
 collections:
   concepts:
     output: true
-    permalink: /concepts/:name/
+    permalink: /concepts/:path/
   library:
     output: true
-    permalink: /library/:name/
+    permalink: /library/:path/
   research:
     output: true
-    permalink: /research/:name/
+    permalink: /research/:path/
 
 # Social Sharing
 twitter:
