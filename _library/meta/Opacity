@@ -1,1 +1,45 @@
+---
+layout: single
+title: "Opacity"
+permalink: /opacity/
+toc: true
+toc_label: "Terms"
+---
 
+## **Opacity (Meta)**
+
+**Tag:** Meta, Feedback Integrity, Learning, Model Quality
+
+**Definition:**
+
+Model loss, distortion, distance, compression, or misattribution that prevents accurate understanding of reality, causation, or consequences.
+
+**Full Explanation:**
+
+Opacity is the master mechanism enabling misalignment. When consequences are hidden, delayed, compressed, or attributed incorrectly, actors cannot update their models or behavior accurately. Opacity doesn't require conspiracy—it emerges naturally from scale, complexity, time delays, and information asymmetry. The critical insight is that opacity makes locally rational behavior globally destructive because actors optimize based on incomplete or distorted feedback.
+
+Opacity operates across three dimensions:
+
+1. **Causal opacity**: You can't trace action to outcome (complex systems, long time delays)
+2. **Attributional opacity**: You can't identify who caused what (diffused responsibility, collective action)
+3. **Consequence opacity**: Costs are hidden, displaced, or experienced by others (externalities, future generations)
+
+**Example 1 (Obvious):**
+
+Financial derivatives in 2008. Risk was so compressed and distributed across instruments that no individual actor could assess real exposure. Each trade appeared locally profitable while systemic risk accumulated invisibly. Opacity wasn't fraud—it was architectural. The instruments were designed to be illegible.
+
+**Example 2 (Subtle):**
+
+Academic peer review. Reviewer gets no feedback on whether their assessment was accurate (paper succeeds/fails in replication, author's career trajectory). Journal editor never learns if they systematically misjudged quality. The feedback loop is 5-10 years long and diffused across thousands of papers, making learning impossible. Result: systematic bias persists indefinitely because opacity prevents correction.
+
+**Common Misdiagnosis:**
+
+Often mistaken for malicious deception (T4) when it's actually structural (Meta). People assume opacity requires intentional hiding, but most opacity is emergent from scale and complexity. The question isn't "who's lying?" but "where's the feedback loop broken?"
+
+**Related constructs:**
+
+→ [[Feedback integrity]], [[Clarity]], [[Signal]], [[Noise]], [[Information asymmetry]], [[Externality]], [[Impunity]], [[Transparency]]
+
+**Intervention principle:**
+
+Reduce opacity first. Most other interventions fail because actors are optimizing on distorted models. Make consequences visible and attributable before attempting behavior change.
