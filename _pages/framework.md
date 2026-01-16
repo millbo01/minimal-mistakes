@@ -94,5 +94,5 @@ Choose your starting point:
 - [6NF: The trap of artificial fulfillment](/framework/6nf/)
 
 Or explore specific concepts:
-- [Library: All terms defined](/library/)
+- [Library: All terms defined](/_pages/library)
 - [Research: Open questions and testable hypotheses](/research/)
