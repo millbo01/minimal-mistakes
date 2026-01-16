@@ -39,4 +39,4 @@ What appears as "dysfunction" in one environment may be optimization for a diffe
 
 **Or jump directly to:**
 - [Library](/_library/) - All concepts and terms defined
-- [Research Proposals](/research/) - Testable hypotheses and open questions
+- [Research Proposals](/_research/) - Testable hypotheses and open questions
