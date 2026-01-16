@@ -1,0 +1,66 @@
+---
+layout: single
+title: "Local Rationality"
+permalink: /local-rationality/
+toc: true
+toc_label: "Terms"
+---
+
+## **Local Rationality (Meta)**
+
+**Tag:** Meta, Behavior, Model, Incentive, Diagnosis
+
+**Definition:**
+
+Behavior is optimal relative to the actor's internal model, tier weights, and perceived constraints—even when it appears destructive or irrational to external observers.
+
+**Full Explanation:**
+
+This is the foundation of IPF's explanatory power: **There are no irrational actors, only incomplete models of their incentives.** When behavior seems crazy, stupid, or self-destructive, the error is in your model of their situation, not in their decision-making.
+
+Local rationality means: given what they believe about reality, given their tier weights, given their perceived options and constraints—their behavior is the best available choice. If you had their model and their weights, you'd do the same thing.
+
+This doesn't mean their model is accurate (it might be badly wrong) or their tier weights are ideal (they might be destructively misaligned). It means they're optimizing correctly within their perceived reality. The "irrationality" is usually one of three things:
+
+1. **Model error:** They're optimizing based on false beliefs about reality
+2. **Tier misidentification:** Observer thinks T5 should dominate, actor is actually in T3
+3. **Constraint invisibility:** Observer doesn't see the costs/constraints the actor faces
+
+Once you accept local rationality, "why are they doing this?" becomes "what model and weights make this behavior optimal?"
+
+*Note: Local rationality includes cultural context. Actors optimize within their cultural model—the shared beliefs and tier weightings of their reference group. Behavior that's locally rational in one cultural context may appear irrational in another, not because either actor is wrong, but because they're operating in different cultural tier landscapes. (See [[Cultural Model]] for full treatment.)*
+
+**Example 1 (Obvious):**
+
+Person stays in abusive relationship. External observer: "Why don't they just leave? That's irrational." But if you model their reality: (1) Leaving might trigger escalation/violence (T1/T3 threat), (2) Financial dependency makes independence impossible (T4 constraint), (3) Social network is entirely through abuser (T2 isolation), (4) Self-model is "I'm worthless and deserve this" (T5 collapse). Given that model, staying is locally rational—least-bad option among terrible choices. The "irrationality" is in the observer's model, not the actor's behavior.
+
+**Example 2 (Subtle):**
+
+Engineer refuses to report critical safety flaw in design. Appears irrational (T6 violation, potential for mass harm). But model their reality: (1) Previous whistleblowers were fired (T3 threat), (2) Their mortgage depends on this job (T4 constraint), (3) They have evidence showing management ignored past warnings (T3 learned helplessness), (4) Their identity is "team player who doesn't make waves" (T2 protection). Given that model, staying silent is locally rational—optimizing for survival within perceived constraints. The dysfunction is in the system that makes silence rational, not the engineer's decision-making.
+
+**Common Misdiagnosis:**
+
+Attributing destructive behavior to stupidity, ignorance, or moral failure when it's actually correct optimization under bad incentives or false models. Once you label someone "irrational," you stop looking for the structural factors that make their behavior make sense. This prevents actual solutions.
+
+**Related constructs:**
+
+→ [[Model]], [[Utility]], [[Dominant tier]], [[Constraint]], [[Option set]], [[Revealed preference]], [[Rationalization]], [[Clarity]], [[Opacity]]
+
+**Diagnostic method:**
+
+When behavior seems irrational:
+
+1. **Assume it's locally rational**
+2. **Reverse engineer:** What model/weights/constraints make this optimal?
+3. **Ask:** Model error? Tier misidentification? Hidden constraints?
+4. **That reveals the intervention point:** Fix model, shift context to change dominant tier, or remove constraining factors
+
+**Intervention principle:**
+
+Never treat actors as irrational. If behavior is destructive, the problem is:
+
+- **False model** → Provide clarity (reduce opacity)
+- **Misaligned incentives** → Change which tier dominates
+- **Invisible constraints** → Remove barriers or change cost structure
+
+Calling behavior "irrational" is diagnostic failure. If you can't explain why it's locally rational, you don't understand the system.
