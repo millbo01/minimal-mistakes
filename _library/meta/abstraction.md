@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Abstraction"
-permalink: /meta/abstraction/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Abstraction (Meta)**
