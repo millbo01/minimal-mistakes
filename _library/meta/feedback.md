@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Feedback"
-permalink: /meta/feedback/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Feedback (Meta)**
