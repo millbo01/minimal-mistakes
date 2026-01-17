@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Signal"
-permalink: /meta/signal/
-toc: true
 ---
 
 ## **Signal (Meta)**
