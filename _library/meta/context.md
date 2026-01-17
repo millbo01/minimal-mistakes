@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Context"
-permalink: /meta/context/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Context (Meta)**
