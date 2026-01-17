@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Choice"
-permalink: /meta/choice/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Choice (Meta)**
