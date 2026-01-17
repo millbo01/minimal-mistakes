@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Local Rationality"
-permalink: /meta/local-rationality/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Local Rationality (Meta)**
