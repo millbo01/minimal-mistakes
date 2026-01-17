@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Narrative"
-permalink: /meta/narrative/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Narrative (Meta)**
