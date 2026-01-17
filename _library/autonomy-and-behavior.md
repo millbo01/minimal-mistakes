@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Library: Kin & Tribe (T1/T2)"
+title: "Behavior & Choice"
 permalink: /library/autonomy-and-behavior/
 toc: true
 toc_label: "Terms"
