@@ -41,5 +41,4 @@ What appears as "dysfunction" in one environment may be optimization for a diffe
 - [Library](/library) - All concepts and terms defined
 - [Research Proposals](/research/) - Testable hypotheses and open questions
 
-- **Have objections or questions?** Check the [FAQ](/faq/) for common critiques and clarifications.
-- **Have objections or questions?** Check the [FAQ](/faq/) for common critiques and clarifications.
+**Have objections or questions?** Check the [FAQ](/faq/) for common critiques and clarifications.
