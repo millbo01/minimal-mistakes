@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Feedback Integrity"
-permalink: /meta/feedback-integrity/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Feedback Integrity (Meta)**
