@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Clarity"
-permalink: /meta/clarity/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Clarity (Meta)**
