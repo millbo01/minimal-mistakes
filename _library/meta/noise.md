@@ -1,9 +1,6 @@
 ---
 layout: single
 title: "Noise"
-permalink: /meta/noise/
-toc: true
-toc_label: "Terms"
 ---
 
 ## **Noise (Meta)**
