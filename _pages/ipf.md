@@ -55,7 +55,7 @@ Here "pays" means anything the nervous system treats as net-positive expected va
 </div>
 
 <p style="text-align: center; color: #888; font-size: 0.95em; margin-top: 20px;">
-<em>Lower tiers dominate under threat and scarcity. Higher tiers become accessible only when lower tiers feel secure.</em>
+<strong>Lower tiers dominate under threat and scarcity. Higher tiers become accessible only when lower tiers feel secure.</strong>
 </p>
 
 ---
