@@ -2,15 +2,16 @@
 main:
   - title: ""
     url: https://millbo01.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-# In _data/navigation.yml
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Framework"
+    url: /framework/
+  - title: "Library"
+    url: /library/
+  - title: "Research"
+    url: /research/
+  - title: "FAQ"
+    url: /faq/
 
 library:
   - title: "Meta Concepts"
