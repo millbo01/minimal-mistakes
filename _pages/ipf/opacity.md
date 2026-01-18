@@ -45,7 +45,7 @@ Opacity operates through three distinct mechanisms, often simultaneously:
 
 **Can't trace outcome to specific actor.**
 
-![Three mechanisms that break feedback loops](/assets/images/assets/images/diffused-attribution.svg)
+![Three mechanisms that break feedback loops](/assets/images/diffused-attribution.svg)
 
 When responsibility is distributed across many actors, complex systems, or collective decisions, no individual bears visible consequence for failure. Everyone contributed, so no one is accountable.
 
@@ -61,6 +61,8 @@ Diffused attribution isn't accidental—it's often structurally designed. Commit
 
 **Consequences arrive too late to update behavior.**
 
+![Three mechanisms that break feedback loops](/assets/images/temporal-delay.svg)
+
 When costs manifest years or decades after decisions, the feedback loop that would normally correct behavior never forms. By the time consequences appear, actors have moved on, retired, or died. The connection between action and outcome is broken.
 
 **Examples:**
@@ -74,6 +76,8 @@ Humans and institutions both discount future costs heavily. Temporal delay doesn
 ### 3. Displaced Costs (Externalities)
 
 **Benefits accrue to actor, costs fall on others.**
+
+![Three mechanisms that break feedback loops](/assets/images/displaced-costs.svg)
 
 When the actor captures gains but others bear the costs, optimization naturally overproduces harm. The actor is responding rationally to their payoff structure—they just don't experience the downside.
 
