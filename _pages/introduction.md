@@ -6,7 +6,7 @@ permalink: /introduction/
 
 ## The Method
 
-This framework wasn't built in a laboratory or derived from academic theory. It was built by working backwards from patterns that don't fit conventional explanations.
+This framework wasn't built in a laboratory or derived from academic theory. That's not a weakness—it's a necessity. Academia itself operates under the incentive structures this framework exposes: career advancement through narrow specialization, not cross-domain synthesis. Publication incentives reward novelty within established paradigms, not challenges to foundational assumptions. This framework was built by working backwards from patterns that don't fit conventional explanations—free from the structural constraints that prevent institutional research from seeing them.
 
 ### The Pattern Recognition Approach
 
