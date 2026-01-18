@@ -362,3 +362,6 @@ defaults:
       type: research
     values:
       layout: single
+# Mermaid diagrams
+mermaid:
+  enable: true
