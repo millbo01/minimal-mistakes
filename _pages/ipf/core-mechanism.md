@@ -46,6 +46,12 @@ Not the person's internal traits. The incentive structure changed:
 | **Cost of quitting** | Low (minor financial loss) | Catastrophic (discharge, loss of career, social identity) |
 | **Reward structure** | Delayed, uncertain, invisible | Immediate, certain, socially visible |
 
+---
+
+![Same person, different structure, different behavior](/assets/images/gym-vs-army.svg)
+
+---
+
 The gym optimizes for comfort—you pay to have the *option* to exercise, not the obligation. Showing up is already enough to feel virtuous. The army optimizes for performance—compliance is mandatory, performance is measured, deviation is punished immediately.
 
 **The person isn't "stronger-willed" in the army. The structure makes non-compliance irrational.**
