@@ -16,6 +16,50 @@ Here "pays" means anything the nervous system treats as net-positive expected va
 
 ---
 
+<div class="tier-stack" style="max-width: 600px; margin: 40px auto;">
+  <div class="tier" style="background: linear-gradient(135deg, #1a2332 0%, #2a3342 100%); border-left: 4px solid #60a5fa; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #60a5fa;">T6: Stewardship</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Rarest</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Systems integrity, collective flourishing</div>
+  </div>
+  
+  <div class="tier" style="background: linear-gradient(135deg, #1a2332 0%, #2a3342 100%); border-left: 4px solid #8b5cf6; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #8b5cf6;">T5: Meaning</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Requires security</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Purpose, legacy, coherent narrative</div>
+  </div>
+  
+  <div class="tier" style="background: linear-gradient(135deg, #1a2332 0%, #2a3342 100%); border-left: 4px solid #10b981; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #10b981;">T4: Means</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Appears universal</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Resources, proxies, future optionality</div>
+  </div>
+  
+  <div class="tier" style="background: linear-gradient(135deg, #2a1a32 0%, #3a2a42 100%); border-left: 4px solid #f59e0b; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #f59e0b;">T3: Safety</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Dominant under threat</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Stability, risk avoidance, predictability</div>
+  </div>
+  
+  <div class="tier" style="background: linear-gradient(135deg, #321a1a 0%, #422a2a 100%); border-left: 4px solid #ef4444; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #ef4444;">T2: Tribe</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Most common in secure societies</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Belonging, reputation, social status</div>
+  </div>
+  
+  <div class="tier" style="background: linear-gradient(135deg, #321a1a 0%, #422a2a 100%); border-left: 4px solid #dc2626; padding: 15px 20px; margin-bottom: 10px; border-radius: 4px;">
+    <strong style="color: #dc2626;">T1: Kin</strong>
+    <span style="float: right; color: #888; font-size: 0.9em;">Overrides all others when active</span>
+    <div style="clear: both; color: #aaa; font-size: 0.9em; margin-top: 5px;">Genetic continuity, family survival</div>
+  </div>
+</div>
+
+<p style="text-align: center; color: #888; font-size: 0.95em; margin-top: 20px;">
+<strong>Lower tiers dominate under threat and scarcity. Higher tiers become accessible only when lower tiers feel secure.</strong>
+</p>
+
+---
+
 ## The Core Insight
 
 **Incentive structures don't just influence behavior—they're primary.** They define what counts as rational within any given structure, and they do so with enough consistency that outcomes become predictable once you map them correctly.
